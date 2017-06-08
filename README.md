@@ -5,6 +5,8 @@ This is useful for tools like Gogs (https://gogs.io) that only listen on one por
 
 As usual to get going, something like the following..
 
-```go get github.com/penolver/http-redirect
+```go
+go get github.com/penolver/http-redirect
 cd src/github.com/penolver/http-redirect
-go build redirector.go```
+go build redirector.go
+```
